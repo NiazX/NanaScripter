@@ -52,5 +52,16 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Caballo Animado" width="400"/>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" width="400" height="200">
+    <style>
+      .horse {
+        animation: gallop 0.5s infinite linear;
+      }
+      @keyframes gallop {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(10px); }
+      }
+    </style>
+    <text x="50" y="100" font-size="24" fill="black" class="horse">🐎 Galopando...</text>
+  </svg>
 </div>
