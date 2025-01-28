@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 Currently I am passionate about web development and my future vision is to be an expert in cybersecurity
 
 - 🧑‍🎓 self-taught in programming
 
