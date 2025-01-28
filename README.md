@@ -50,8 +50,6 @@
 <hr>
 <br>
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <pre style="font-size: 16px; white-space: pre-wrap; flex: 1; overflow-x: auto;">
 |A|D|E|L|I|T||A||❤️|:|
 | - | - | - | - | - | - | - | - | - | - | - |
 | | | |`P`| | | | | | |`W`|
@@ -66,10 +64,9 @@
 |`I`| | |`Y`| | |`E`| | | | |
 |`S`| | | | | |`M`| | |[📸](xd)| |
 |`M`| | | | | | | | | | |
-  </pre>
-  <div style="margin-left: 20px;">
-    <img src="https://gifsanimados.de/img-gifsanimados.de/c/caballos/caballo-abriendo-la-boca.gif" alt="Caballo Animado" width="200"/>
-  </div>
-</div>
 
+
+<div align="center">
+  <img src="https://gifsanimados.de/img-gifsanimados.de/c/caballos/caballo-abriendo-la-boca.gif" alt="Caballo Animado" width="400"/>
+</div>
 
