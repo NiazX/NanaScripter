@@ -50,6 +50,21 @@
 
 <br>
 
+|A|D|E|L|I|T||A||❤️|:|
+| - | - | - | - | - | - | - | - | - | - | - |
+| | | |`P`| | | | | | |`W`|
+| |`D`|`E`|`S`|`I`|`G`|`N`| | | |`H`|
+|`M`| | |`Y`| | | | |`C`| |`I`|
+|`I`| | |`C`|`O`|`D`|`E`| |`O`| |`M`|
+|`N`| | |`H`| | | | |`L`| |`S`|
+|`I`| |`S`|`O`|`C`|`I`|`O`|`L`|`O`|`G`|`Y`|
+|`M`| | |`L`| | | | |`R`| | |
+|`A`| | |`O`| | | | | | | |
+|`L`|`I`|`N`|`G`|`U`|`I`|`S`|`T`|`I`|`C`| |
+|`I`| | |`Y`| | |`E`| | | | |
+|`S`| | | | | |`M`| | |[📸](xd)| |
+|`M`| | | | | | | | | | |
+
 
 <div align="center">
   <img src="https://gifsanimados.de/img-gifsanimados.de/c/caballos/caballo-abriendo-la-boca.gif" alt="Caballo Animado" width="400"/>
