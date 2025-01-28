@@ -52,7 +52,6 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
   <pre style="font-size: 16px; white-space: pre-wrap; flex: 1; overflow-x: auto;">
-    <h2>❤️</h2>
 |A|D|E|L|I|T||A||❤️|:|
 | - | - | - | - | - | - | - | - | - | - | - |
 | | | |`P`| | | | | | |`W`|
