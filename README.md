@@ -52,5 +52,5 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Caballo Animado" width="400"/>
+  <img src="https://gifsanimados.de/img-gifsanimados.de/c/caballos/caballo-abriendo-la-boca.gif" alt="Caballo Animado" width="400"/>
 </div>
