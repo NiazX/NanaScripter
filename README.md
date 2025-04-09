@@ -50,9 +50,9 @@
 <hr>
 <br>
 
-|A|D|E|L|I|T||A||❤️|:|
-| - | - | - | - | - | - | - | - | - | - | - |
-| | | |`P`| | | | | | |`W`|
+|L|E| |C|A|I||G||O|:|
+| M | A | L | - | A | - | P | U | R | O | - |
+| | | |P|E|N|D|E |J |O ||
 | |`D`|`E`|`S`|`I`|`G`|`N`| | | |`H`|
 |`M`| | |`Y`| | | | |`C`| |`I`|
 |`I`| | |`C`|`O`|`D`|`E`| |`O`| |`M`|
@@ -65,8 +65,4 @@
 |`S`| | | | | |`M`| | |[📸](xd)| |
 |`M`| | | | | | | | | | |
 
-
-<div align="center">
-  <img src="https://gifsanimados.de/img-gifsanimados.de/c/caballos/caballo-abriendo-la-boca.gif" alt="Caballo Animado" width="400"/>
-</div>
 
