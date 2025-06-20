@@ -10,7 +10,7 @@
   
 - 🌱 Currently I am passionate about web development and my future vision is to be an expert in cybersecurity
 
-- 🧑‍🎓 self-taught in programming
+- 🧑‍🎓 self-taught in programming.
 
 - 💬 **Ethical hacking** and **computer piracy** catches my attention
   
